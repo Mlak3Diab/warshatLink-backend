@@ -7,10 +7,12 @@
     "require": {
         "php": "^8.0",
         "fruitcake/laravel-cors": "^2.0.5",
-        "guzzlehttp/guzzle": "^7.2",
+        "google/apiclient": "^2.18",
+        "guzzlehttp/guzzle": "^7.9",
         "laravel/framework": "^9.0",
         "laravel/passport": "^12.4",
         "laravel/sanctum": "^2.14",
+        "laravel/socialite": "^5.18",
         "laravel/tinker": "^2.7"
     },
     "require-dev": {
